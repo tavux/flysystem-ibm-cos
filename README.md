@@ -1,4 +1,4 @@
-# Flysystem Adapter for Amazon Cloud Drive
+# Flysystem Adapter for IBM Cloud Object Storage
 
 This is an [IBM Cloud Object Storage](https://www.ibm.com/cloud/object-storage) adapter for [Flysystem](http://flysystem.thephpleague.com/).
 
