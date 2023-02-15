@@ -2,7 +2,7 @@
     "name": "tavux/flysystem-ibm-cos",
     "license": "MIT",
     "description": "Flysystem Interface for IBM Cloud Object Storage",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/tavux/flysystem-ibm-cos",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "league/flysystem-aws-s3-v3": "^3.12.2",
+        "league/flysystem-aws-s3-v3": "^3.12.2"
     },
     "autoload": {
         "psr-4": {
